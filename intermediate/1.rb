@@ -1,3 +1,5 @@
+# http://www.reddit.com/r/dailyprogrammer/comments/pihtx/intermediate_challenge_1/
+
 class Organiser
   Event = Struct.new(:eventName, :startTime, :endTime)
 
