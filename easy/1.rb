@@ -1,5 +1,7 @@
+# http://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/
+
 def enterInfo()
-	print "What is your name? "
+  print "What is your name? "
 	name = gets.chomp
 	print "What is your age? "
 	age = gets.chomp
